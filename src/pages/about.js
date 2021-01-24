@@ -1,16 +1,15 @@
 import * as React from 'react';
 import Layout from '../components/Layout';
 
-// markup
-const IndexPage = () => {
+const AboutPage = () => {
   return (
     <Layout>
       <main>
-        <title>Home Page</title>
-        Home
+        <title>About Page</title>
+        about
       </main>
     </Layout>
   );
 };
 
-export default IndexPage;
+export default AboutPage;
