@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'audioCore',
+    siteUrl: 'https://vercel.audiocore.com',
   },
   plugins: [
     {
